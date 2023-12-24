@@ -1,0 +1,49 @@
+.main {
+    width: 1000px;
+    height: 1500px;
+}
+
+.header__flex ul li {
+    margin-left: 20px;
+    color: #000080;
+}
+
+.header__flex ul {
+    display: flex;
+}
+
+.header__flex nav {
+    margin-left: auto;
+}
+
+.header__flex {
+    display: flex;
+    height: 60px;
+    align-items: center;
+}
+
+.div {
+    padding: o 30px;
+}
+
+ul {
+    list-style: none;
+}
+
+.main__img {
+    margin: 0 0 0 auto;
+    display: block;
+    width: 50%;
+}
+
+.absolute {
+    margin: -120px 0 0 0;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.box {
+    background-color: #000080;
+    width: 700px;
+    height: 150px;
+}
